@@ -1,0 +1,24 @@
+div.hukdpress_opt_opt input, div.hukdpress_opt_opt select {
+	font-size: 10px;
+}
+
+div.hukdpress_note {
+	font-style: italic;
+	color: #666;
+	padding-top: 2px;
+}
+
+div.hukdpress_opt_title {
+	font-weight: bold;
+	padding-bottom: 3px;
+	padding-top: 8px;
+}
+
+input.hp_with_colorpicker {
+	width: 80px;
+}
+
+.colorpicker input[type="text"] {
+	background-color: transparent;
+	border: 0;
+}
